@@ -33,7 +33,7 @@ const App = () => {
             let first = (last - 15);
             // let first = i === 1 ? 1 : (i * 16);
 
-            let mas = [];
+            // let mas = [];
             let masZec = [];
             let masZecSorted = [];
 
@@ -51,7 +51,7 @@ const App = () => {
                 let upperOne = oneLetter.toUpperCase();
                 // console.log(upperOne);
 
-                mas.push(upperOne);
+                // mas.push(upperOne);
 
 
                 let cezLetter = masOfCezar.indexOf(upperOne.valueOf());
